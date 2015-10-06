@@ -1,0 +1,25 @@
+{
+  "name": "github-trello",
+  "version": "1.0.0",
+  "description": "Quick and dirty trello integration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Jon Johnson",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.3",
+    "github-webhook-middleware": "0.0.2",
+    "trello": "^0.4.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonjonsonjr/gitub-trello.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jonjonsonjr/github-trello/issues"
+  },
+  "homepage": "https://github.com/jonjonsonjr/github-trello#readme"
+}

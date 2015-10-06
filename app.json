@@ -1,0 +1,7 @@
+{
+  "name": "github-trello",
+  "description": "Push to GitHub to add cards to a Trello list",
+  "repository": "https://github.com/jonjonsonjr/github-trello",
+  "logo": "https://node-js-sample.herokuapp.com/node.svg",
+  "keywords": ["node", "express", "github", "trello"]
+}
