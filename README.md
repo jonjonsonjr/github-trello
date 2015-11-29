@@ -36,7 +36,7 @@ Save this for later. This is your `Payload URL`.
 
 Go to your GitHub repo's settings.
 
-CLick `Webhooks & services`.
+Click `Webhooks & services`.
 
 Click `Add webhook`.
 
